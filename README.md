@@ -1,2 +1,2 @@
 # EBAE
-Empirical Bayes Auto-Encoder
+This is the official implementation for Empirical Bayes Auto-Encoder (EBAE).
