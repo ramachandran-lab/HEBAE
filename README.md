@@ -1,2 +1,2 @@
 # EBAE
-This is the official implementation for Empirical Bayes Auto-Encoder (EBAE).
+This is the official implementation for Hierarchical Empirical Bayes Auto-Encoder (HEBAE).
