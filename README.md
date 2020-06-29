@@ -2,15 +2,15 @@
 This is the official implementation for Hierarchical Empirical Bayes Auto-Encoder (HEBAE). It contains the code for training the Hierarchical Empirical Bayes AutoEncoders(HEBAE)/VAE/WAE on CelebA and MNIST datasets.
 
 # Dependencies:
-Python 3.7.4
-tensorflow 2.1.0
-tensorflow-probability 0.9.0
-keras 2.3.1
-matplotlib 3.1.2
-numpy 1.17.2
-Pillow 7.1.0
-scikit-learn 0.21.3
-scipy 1.4.1
+Python > 3.7.4,
+tensorflow > 2.1.0,
+tensorflow-probability > 0.9.0,
+keras > 2.3.1,
+matplotlib > 3.1.2,
+numpy > 1.17.2,
+Pillow > 7.1.0,
+scikit-learn > 0.21.3,
+scipy > 1.4.1
 
 # Datasets:
 MNIST dataset can be downloaded here:http://yann.lecun.com/exdb/mnist/
