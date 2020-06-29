@@ -14,6 +14,7 @@ scipy > 1.4.1
 
 # Datasets:
 MNIST dataset can be downloaded here:http://yann.lecun.com/exdb/mnist/
+
 CelebA dataset can be downloaded here:http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html (For the paper, we center crop and resize images to 64by64 resolution.)
 
 # Notes
