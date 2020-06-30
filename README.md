@@ -23,8 +23,7 @@ The names for code have the following formats:
 2. *`[datasets]_[model]_train.py` - script to train the corresponding model
 
 # Example Images
-![alt text](misc/all_samples_MNIST.pdf)
-![alt text](misc/all_samples_CelebA.pdf)
+![alt text](all_samples_CelebA.pdf)
 
 # Other Guidelines:
 1. *`utils.py` contains helper function to load in data.
