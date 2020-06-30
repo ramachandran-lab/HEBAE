@@ -22,6 +22,10 @@ The names for code have the following formats:
 1. *`[datasets]_[model].py` - specify the model architectures
 2. *`[datasets]_[model]_train.py` - script to train the corresponding model
 
+# Example Images
+![alt text](misc/all_samples_MNIST.pdf)
+![alt text](misc/all_samples_CelebA.pdf)
+
 # Other Guidelines:
 1. *`utils.py` contains helper function to load in data.
 2. *`CelebA_[model]_generate_img.py` contains the code to generate images using a pre-trained model for the CelebA dataset. The code for generating images for MNIST are commented out in the *`MNIST_[model]_train.py` file. This model can be trained quickly.
