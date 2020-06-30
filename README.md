@@ -19,7 +19,7 @@ CelebA dataset can be downloaded here:http://mmlab.ie.cuhk.edu.hk/projects/Celeb
 
 # Notes
 The names for code have the following formats:
-1. [datasets]_[model].py - specify the model architectures
+1. *'[datasets]_[model].py' - specify the model architectures
 2. [datasets]_[model]_train.py - script to train the corresponding model
 
 # Other Guidelines:
