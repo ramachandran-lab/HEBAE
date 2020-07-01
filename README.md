@@ -19,13 +19,13 @@ CelebA dataset can be downloaded here:http://mmlab.ie.cuhk.edu.hk/projects/Celeb
 
 # Notes
 The names for code have the following formats:
-1. *`[datasets]_[model].py` - specify the model architectures
-2. *`[datasets]_[model]_train.py` - script to train the corresponding model
+1. `[datasets]_[model].py` - specify the model architectures
+2. `[datasets]_[model]_train.py` - script to train the corresponding model
 
 # Example Images
 ![alt text](CelebA_images.png)
 
 # Other Guidelines:
-1. *`utils.py` contains helper function to load in data.
-2. *`CelebA_[model]_generate_img.py` contains the code to generate images using a pre-trained model for the CelebA dataset. The code for generating images for MNIST are commented out in the *`MNIST_[model]_train.py` file. This model can be trained quickly.
+1. `utils.py` contains helper function to load in data.
+2. `CelebA_[model]_generate_img.py` contains the code to generate images using a pre-trained model for the CelebA dataset. The code for generating images for MNIST are commented out in the *`MNIST_[model]_train.py` file. This model can be trained quickly.
 
