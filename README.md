@@ -29,3 +29,6 @@ The names for code have the following formats:
 1. `utils.py` contains helper function to load in data.
 2. `CelebA_[model]_generate_img.py` contains the code to generate images using a pre-trained model for the CelebA dataset. The code for generating images for MNIST are commented out in the *`MNIST_[model]_train.py` file. This model can be trained quickly.
 
+
+# Relevant Citations:
+W. Cheng, G. Darnell, S. Ramachandran, L. Crawford (2020). Generalizing Variational Autoencoders with Hierarchical Empirical Bayes. _arXiv_:2007.10389
